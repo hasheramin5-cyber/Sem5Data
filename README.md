@@ -2,9 +2,9 @@
 
 <img src="./assets/university-banner.png" alt="University Banner" width="100%">
 
-# BS(IT) — Semester 05
+# BS(Information Technology) - 5th Semester
 
-**Session 2024–28**
+**Session 2024-28**
 
 </div>
 
@@ -13,11 +13,9 @@
 ## About
 
 This repository is a centralized collection of study-related resources
-for **BS(IT), Semester 05, Session 2024–28**.
-
+for **BS(Information Technology), 5th Semester, Session 2024-28**.
 The purpose of this repository is to keep semester-related academic
 resources organized, structured, and easily accessible in one place.
-
 The collected resources are arranged according to the academic structure
 of the semester and may be updated, improved, or expanded over time.
 
@@ -27,8 +25,8 @@ of the semester and may be updated, improved, or expanded over time.
 
 | Program | BS Information Technology |
 | :-- | :-- |
-| Session | 2024–28 |
-| Semester | 05 |
+| Session | 2024-28 |
+| Semester | 5th |
 | Total Credit Hours | 19 |
 
 ---
@@ -37,10 +35,8 @@ of the semester and may be updated, improved, or expanded over time.
 
 The repository is organized around the academic subjects offered during
 the semester.
-
 Each subject is maintained separately to keep the overall repository
 structured, navigable, and easy to maintain.
-
 The structure may evolve as the repository grows and additional
 study-related resources are collected.
 
@@ -62,11 +58,9 @@ This repository is intended to:
 
 This repository is an independent collection of study-related resources
 and does not represent an official university repository.
-
 The availability of resources in this repository should not be considered
 a guarantee that the collection represents the complete or official
 academic content of the semester.
-
 For official academic information, students should refer to the relevant
 university sources and instructions.
 
@@ -99,6 +93,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-**BS(IT) — Session 2024–28 | Semester 05**
+**BS(Information Technology) - Session 2024-28 | 5th Semester**
 
 </div>
