@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ctx_view"
+        android:title="@string/menu_view_details" />
+    <item
+        android:id="@+id/ctx_done"
+        android:title="@string/menu_mark_done" />
+    <item
+        android:id="@+id/ctx_delete"
+        android:title="@string/menu_delete" />
+</menu>

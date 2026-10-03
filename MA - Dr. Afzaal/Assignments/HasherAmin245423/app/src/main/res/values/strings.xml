@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Student Task Planner</string>
+
+    <!-- Student info: EDIT THESE -->
+    <string name="student_name">Hasher Amin</string>
+    <string name="roll_number_value">245423</string>
+    <string name="class_value">BS-IT (5th Semester - EveningA)</string>
+    <string name="email_address">hasheramin5.@gmail.com</string>
+    <string name="version_value">0.1.0</string>
+
+    <!-- Main -->
+    <string name="main_welcome">Welcome, %1$s</string>
+    <string name="pending_tasks">Pending tasks: %1$d</string>
+    <string name="btn_my_tasks">My Tasks</string>
+    <string name="btn_about">About</string>
+    <string name="desc_logo">Student Task Planner logo</string>
+
+    <!-- List -->
+    <string name="list_title">My Tasks</string>
+    <string name="empty_message">No tasks yet. Tap Add Task to create one.</string>
+    <string name="btn_add">Add Task</string>
+    <string name="item_info">%1$s  |  Due: %2$s</string>
+
+    <!-- Add -->
+    <string name="add_title">Add Task</string>
+    <string name="hint_title">Task title</string>
+    <string name="hint_course">Course name</string>
+    <string name="label_priority">Priority</string>
+    <string name="hint_due_date">Due date (tap to choose)</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="error_title_required">Title is required</string>
+
+    <!-- Priority and status -->
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="status_done">Done</string>
+    <string name="status_pending">Pending</string>
+    <string name="not_set">Not set</string>
+
+    <!-- Detail -->
+    <string name="detail_title">Task Details</string>
+    <string name="label_title">Title</string>
+    <string name="label_course">Course</string>
+    <string name="label_due_date">Due date</string>
+    <string name="label_status">Status</string>
+    <string name="desc_more">More options</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="label_name">Name</string>
+    <string name="label_roll">Roll number</string>
+    <string name="label_class">Class</string>
+    <string name="label_version">Version</string>
+    <string name="btn_email">Email Me</string>
+    <string name="btn_docs">Android Docs</string>
+    <string name="email_subject">CIT-646 Assignment 1</string>
+
+    <!-- Menus -->
+    <string name="menu_add">Add</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort_priority">By Priority</string>
+    <string name="menu_sort_due">By Due Date</string>
+    <string name="menu_sort_title">By Title</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_view_details">View Details</string>
+    <string name="menu_mark_done">Mark Done</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_share">Share</string>
+
+    <!-- Feedback -->
+    <string name="toast_added">Task added</string>
+    <string name="toast_done">Task marked as done</string>
+    <string name="toast_deleted">Task deleted</string>
+    <string name="toast_sorted">List sorted</string>
+    <string name="toast_no_email">No email app found</string>
+    <string name="toast_no_browser">No browser found</string>
+    <string name="toast_no_share">No app available to share</string>
+    <string name="dialog_delete_title">Delete task</string>
+    <string name="dialog_delete_message">Are you sure you want to delete \"%1$s\"?</string>
+    <string name="share_chooser">Share task via</string>
+    <string name="share_summary">Task: %1$s\nCourse: %2$s\nPriority: %3$s\nDue: %4$s\nStatus: %5$s</string>
+</resources>
